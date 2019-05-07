@@ -6,8 +6,6 @@
 
 ## _GitHub link:_
 
-*
-
 * [Alexander Sergejev's portfolio](https://github.com/alexanserg/Portfolio-Project)
 
 #### Copyright (c) 2019 Alexander Sergejev
