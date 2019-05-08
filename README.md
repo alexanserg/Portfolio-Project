@@ -6,7 +6,7 @@
 
 ## _GitHub link:_
 
-* [Alexander Sergejev's portfolio](https://github.com/alexanserg/Portfolio-Project)
+* [Alexander Sergejev's portfolio](https://alexanserg.github.io/Portfolio-Project/)
 
 #### Copyright (c) 2019 Alexander Sergejev
 #### This document is licensed under the MIT license
