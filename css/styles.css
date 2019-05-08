@@ -1,0 +1,50 @@
+.bio {
+  width: 800px;
+  text-align: center;
+  margin-bottom: 200px;
+}
+
+.work {
+  background-color: #FF6347;
+  border: black solid 10px;
+  margin: 10px;
+}
+
+.learning {
+  background-color: #F5DEB3;
+  border: black solid 10px;
+  margin: 10px;
+}
+
+
+.fun {
+  background-color: #00FF7F;
+  border: black solid 10px;
+  margin: 10px;
+}
+
+#my-pic {
+  float: right;
+  padding: 25px;
+  border: #1E90FF solid 25px;
+  margin: 25px;
+}
+
+#river {
+  width: 300px;
+}
+
+#camping {
+  width: 300px;
+}
+
+
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-family: fantasy;
+}
