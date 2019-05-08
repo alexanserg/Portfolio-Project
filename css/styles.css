@@ -23,6 +23,15 @@
   margin: 10px;
 }
 
+.projects {
+  background-color: black;
+  color: orange;
+  text-align: center;
+}
+
+.plain {
+  list-style: none;
+}
 #my-pic {
   float: right;
   padding: 25px;
@@ -38,7 +47,9 @@
   width: 300px;
 }
 
-
+#project-header {
+  color: orange;
+}
 
 h1 {
   text-align: center;
@@ -47,4 +58,8 @@ h1 {
 h2 {
   text-align: center;
   font-family: fantasy;
+}
+
+span {
+  font-weight: bold;
 }
